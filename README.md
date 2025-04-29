@@ -137,5 +137,5 @@ Prompt ที่ใช้:
 ได้ขั้นตอนใช้ Expo EAS Build สร้างไฟล์ .apk พร้อมตั้งค่า
 ✅ Checklist ก่อนส่ง | Final Checklist
 [x] กรอกข้อมูลครบทุก Section
-[x] แนบ GitHub และไฟล์ติดตั้ง
+[x] แนบ GitHub และไฟล์ติดตั้ง.
 
